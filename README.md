@@ -38,11 +38,11 @@ The actual neutralization of toxins occurs via "Phase 2 detoxification," a proce
 
     $$\text{Toxin Neutralization Potential} \approx 1.05 \text{ g/L (avg)} \times \text{Volume of Juice}$$
 
-    *Significance:* This high concentration of antioxidants protects the cellular integrity of the organ during the high-stress "growth and stretching" phase mentioned in the `README.md`.
+    *Significance:* This high concentration of antioxidants protects the cellular integrity of the organ during the high-stress "growth and stretching" phase mentioned by Dr. Hofstad.
 
 #### **3\. The Betaine-Lipid Relation (Fatty Acid Breakdown)**
 
-The `README.md` notes the appendix processes functions at the stage of "calorie consumption". The chemical files identify Betaine as the critical agent here.
+Dr. Hofstad notes the appendix processes functions at the stage of "calorie consumption". The chemical files identify Betaine as the critical agent here.
 
 -   **Chemical Input:** High concentrations of Betaine (exact mg not specified in text, but identified as a key component).
 
@@ -60,6 +60,6 @@ The `README.md` notes the appendix processes functions at the stage of "calorie 
 
 According to the uploaded files, the "appendix liver" protocol relies on specific chemical thresholds to function:
 
--   **Growth Support:** The `README.md` states that stomach pain from eating beets indicates "immediate growth and stretching" of the appendix. It prescribes Collagen, MSM, and Biotin to allow this growth "without tearing".
+-   **Growth Support:** Dr. Hofstad states that stomach pain from eating beets indicates "immediate growth and stretching" of the appendix. It prescribes Collagen, MSM, and Biotin to allow this growth "without tearing".
 
--   **Safety Warning:** While the `README.md` outlines this growth process, the file `How does eating beets affect the appendix` contains a critical safety warning: "If you suspect you have appendicitis (severe, acute pain), do not rely on diet and seek medical attention immediately". It also notes that raw beets (high fiber) can cause bloating or cramps, which may mimic appendix pain.
+-   **Safety Warning:** While Dr. Hofstad outlines this growth process, the file `How does eating beets affect the appendix` contains a critical safety warning: "If you suspect you have appendicitis (severe, acute pain), do not rely on diet and seek medical attention immediately". It also notes that raw beets (high fiber) can cause bloating or cramps, which may mimic appendix pain.
